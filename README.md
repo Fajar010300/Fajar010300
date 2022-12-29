@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fajar Setyo Pambudi
-- 👀 I’m interested in Proggraming
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Database Engineer & Programming
+- 🌱 I’m currently learning Database Administrator & Vue JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
